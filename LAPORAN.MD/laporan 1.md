@@ -79,6 +79,6 @@ Setelah menyelaraskan header dan urutan deklarasi, seluruh sistem berhasil dibui
 ## 📚 Referensi
 
 - github repository: https://github.com/mhbahara/os-202402 
-- chat gpt: chatgpt.com
+- chat gpt: https://chatgpt.com/
 
 ---
