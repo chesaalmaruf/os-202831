@@ -2,8 +2,8 @@
 
 **Mata Kuliah**: Sistem Operasi  
 **Semester**: Genap / Tahun Ajaran 2024–2025  
-**Nama**: `<Nama Lengkap>`  
-**NIM**: `<Nomor Induk Mahasiswa>`  
+**Nama**: `Chesa Salsabil Al'ma'ruf`  
+**NIM**: `240202831`
 **Modul yang Dikerjakan**:  
 Modul 2 – Penjadwalan CPU Lanjutan (Priority Scheduling Non-Preemptive)
 
