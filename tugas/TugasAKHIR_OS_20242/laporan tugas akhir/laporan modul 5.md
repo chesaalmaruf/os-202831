@@ -75,7 +75,8 @@ Access denied or error.
 
 ## 📚 Referensi
 
-- xv6-public github repository: https://github.com/mhbahara/os-202402 
+- xv6-public github repository: https://github.com/mhbahara/os-202402
+- github repository: https://github.com/Mhmmdfthn
 - Diskusi praktikum dan debugging error menggunakan ChatGPT  
 
 
