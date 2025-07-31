@@ -107,8 +107,8 @@ Digunakan untuk memverifikasi bahwa `/dev/random` menghasilkan byte acak setiap 
 
 ## 📚 Referensi
 
-- Buku xv6 MIT: [https://pdos.csail.mit.edu/6.828/2018/xv6/book-rev11.pdf](https://pdos.csail.mit.edu/6.828/2018/xv6/book-rev11.pdf)  
-- Repositori xv6-public: [https://github.com/mit-pdos/xv6-public](https://github.com/mit-pdos/xv6-public)  
-- Diskusi praktikum, Stack Overflow, dan forum-forum pemrograman seperti GitHub Issues
-
+- modul github repository: https://github.com/Mhmmdfthn
+- MODUL PRAKTIKUM oleh dosen pembimbing, github repository :
+https://github.com/mhbahara/os-202402
+- problem solving di chatgpt
 
