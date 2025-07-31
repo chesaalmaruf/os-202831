@@ -73,13 +73,17 @@ Dua program uji disusun untuk menguji kedua fitur utama:
 Digunakan untuk memastikan bahwa file yang telah diubah menjadi *read-only* tidak dapat ditulis ulang oleh proses lain.
 
 **Output :**
+````
 Write blocked as expected
-
+````
 
 ### **2. randomtest**  
 Digunakan untuk memverifikasi bahwa `/dev/random` menghasilkan byte acak setiap kali dibaca.
 
 **Output:**
+````
+161 99 65 195 225 35 129
+````
 
 
 
