@@ -104,8 +104,7 @@ vm.c                     ← Implementasi fungsi cowuvm, shared memory, ref coun
 
 ## 📚 Referensi
 
-* xv6-public (MIT): [https://github.com/mit-pdos/xv6-public](https://github.com/mit-pdos/xv6-public)
-* Buku xv6: [https://pdos.csail.mit.edu/6.828/2018/xv6/book-rev11.pdf](https://pdos.csail.mit.edu/6.828/2018/xv6/book-rev11.pdf)
-* Diskusi GitHub, Stack Overflow
+*- github repository: https://github.com/Mhmmdfthn
 * Modul praktikum dan dokumentasi Dosen Asisten
+* problep solving oleh chatGPT
 
